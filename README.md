@@ -46,7 +46,13 @@ Web Application where users eager to learn about shoes, future release dates can
 |       2.6             | Users can submit feedback             |   Yes         |       No              |
 |       ---             |     ---                               |     ---       |        ---            |
 
+## Prioritized backlog items
 
-
+  Priority | -
+--- | --- 
+1 | Add an admin post option
+2 | Add links to purchase/create shopping cart
+3 | Update homepage to be more interactive
+4 | Edit current style sheets
 
 
