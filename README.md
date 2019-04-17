@@ -14,7 +14,7 @@ Feedback Page: [https://picturesd5.blob.core.windows.net/deezblobs/FeedBackPage.
 Feedback Message:[https://picturesd5.blob.core.windows.net/deezblobs/FeedBackPage2.PNG]
 
 ## Overall Goal of Application
-Web Application where users eager to learn about shoes, future release dates and talk about shoes and can all come together. They can have access to several shoes I’m following on a weekly basis as well as links to these shoes with descriptions.
+Web Application where users eager to learn about shoes, future release dates can talk about shoes and all come together. They can have access to several shoes I’m following on a weekly basis as well as links to these shoes with descriptions.
 
 ### Application Walkthrough
 - On the "Just4Kickz" home page you can view current shoes that I'm following for the week, click on the shoes and see a short description.
