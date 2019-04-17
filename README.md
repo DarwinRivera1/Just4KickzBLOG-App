@@ -1,5 +1,5 @@
 # Microsoft Software & Systems Academy Project- JUST4KICKZ / Blog
-All to often I found myself looking to learn more about shoes when they were released, and always wanting new updates and possibly purchase shoes if they peaked my interest. After learning about my love for shoes I decided for my project I would take what I learned and make a shoe blog where I would open the floor up to feedback and possibly a shopping cart. 
+I often found myself looking to learn more about shoes when they were released, and always wanting new updates and possibly purchase shoes if they peaked my interest. After learning about my love for shoes I decided for my project I would take what I learned and make a shoe blog where I would open the floor up to feedback and possibly a shopping cart. 
 
 ## Link to Application
 [https://azurewebsites.net]
