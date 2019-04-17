@@ -1,8 +1,40 @@
-# ProjectSetSell-App
-Application to Buy products
+# Microsoft Software & Systems Academy Project- JUST4KICKZ / Blog
+All to often I found myself looking to learn more about shoes when they were realesed, and always wanting new updates and possibly purchase shoes if they peaked my interest. After learning about my love for shoes I decided for my project I would take what I learned and make a shoe blog where I would open the floor up to feedback and possibly a shopping cart. 
 
-What is SetSell?
+## Link to Application
+[https://azurewebsites.net]
 
-All to often when looking for products to purchase online prices are far to high for used items and sometimes involve meeting in public just to have your time wasted.
-SetSell we only post the products the best prices around where all users can expect quality always all pictures are verified and all posts are vetted. 
-Please review the attached powerpoint and as far as future add-ons we would like to extend services to allow verified users the ability to sell.
+## Overall Goal of Application
+Web Application where users eager to learn about shoes, future release dates and talk about shoes and can all come together. They can have access to several shoes Im following on a weekly basis as well as links to these shoes with descriptions.
+
+### Application Walkthrough
+- On the "Just4Kickz" home page you can view current shoes that I'm following for the week, click on the shoes and see a short description.
+
+- The "Post Tab" page I will be able to post about trends new updates and release dates *New Feature TBD*
+
+- With the "Feedback Tab" you can input your name, email and a message and submit feedback and select if you would like to recive a follow up.
+
+- The "Shopping Cart Tab" page will provide some quick information on how to purchase shoes either via links or if the shoes are on hand purchase will also be available through me.
+
+### Requirements
+|Requirement Number     | Requirement                           | Implemented   | Tested With Unit Test |
+|       :---:           |     ---                               |     :---:     |        :---:          |
+|       1.0             | Home Page                             |    ---        |       ---             | 
+|       1.1             | Page shows shoes of the week          |   Yes         |       No              |
+|       1.2             | Admin can add new shoes               |   Yes         |       No              |
+|       1.3             | Admin can edit current shoes          |   Yes         |       No              |
+|       1.4             | Admin can remove shoes from list      |   Yes         |       No              |
+|       1.5             | Users can open all shoes for the week |   Yes         |       No              |
+|       1.6             | Users access to shoes and information |   Yes         |       No              |
+|       1.7             | Users can view shoes market price     |   Yes         |       No              |
+|       ---             |     ---                               |     ---       |        ---            |
+|       2.0             | Feedback Page                         |     ---       |        ---            |
+|       2.1             | Page shows feedback form for user     |   Yes         |       No              |
+|       2.2             | Users can input messages to admin     |   Yes         |       No              |
+|       2.3             | Users can input name to admin         |   Yes         |       No              |
+|       2.4             | Users can input email information     |   Yes         |       No              |
+|       2.5             | Users can request to be contacted     |   Yes         |       No              |
+|       2.6             | Users can submit feedback             |   Yes         |       No              |
+|       ---             |     ---                               |     ---       |        ---            |
+
+
