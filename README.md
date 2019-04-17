@@ -6,8 +6,11 @@ I often found myself looking to learn more about shoes when they were released, 
 
 ## Current Progress 
 HomePage: [https://picturesd5.blob.core.windows.net/deezblobs/Just4KickzHomePage.PNG]
+
 Page Example: [https://picturesd5.blob.core.windows.net/deezblobs/ShoePageExample.PNG]
+
 Feedback Page: [https://picturesd5.blob.core.windows.net/deezblobs/FeedBackPage.PNG]
+
 Feedback Message:[https://picturesd5.blob.core.windows.net/deezblobs/FeedBackPage2.PNG]
 
 ## Overall Goal of Application
