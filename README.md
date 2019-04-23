@@ -6,6 +6,7 @@ I often found myself looking to learn more about shoes when they were released, 
 
 ## Current Progress 
 <img src="https://picturesd5.blob.core.windows.net/deezblobs/Just4KickzHomePage.PNG" width ="65" height "65" />
+![alt text](https://picturesd5.blob.core.windows.net/deezblobs/Just4KickzHomePage.PNG)
 
 Page Example: [https://picturesd5.blob.core.windows.net/deezblobs/ShoePageExample.PNG]
 
