@@ -5,7 +5,7 @@ I often found myself looking to learn more about shoes when they were released, 
 [https://azurewebsites.net]
 
 ## Current Progress 
-HomePage: [https://picturesd5.blob.core.windows.net/deezblobs/Just4KickzHomePage.PNG]
+<img src="https://picturesd5.blob.core.windows.net/deezblobs/Just4KickzHomePage.PNG" alt table="CreateTable scripts scr width ="65%" height "65%">
 
 Page Example: [https://picturesd5.blob.core.windows.net/deezblobs/ShoePageExample.PNG]
 
