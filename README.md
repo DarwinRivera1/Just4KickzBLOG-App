@@ -8,11 +8,11 @@ I often found myself looking to learn more about shoes when they were released, 
 
 ![alt text](https://picturesd5.blob.core.windows.net/deezblobs/Just4KickzHomePage.PNG)
 
-Page Example: [https://picturesd5.blob.core.windows.net/deezblobs/ShoePageExample.PNG]
+![alt text](https://picturesd5.blob.core.windows.net/deezblobs/ShoePageExample.PNG)
 
-Feedback Page: [https://picturesd5.blob.core.windows.net/deezblobs/FeedBackPage.PNG]
+![alt text](https://picturesd5.blob.core.windows.net/deezblobs/FeedBackPage.PNG)
 
-Feedback Message:[https://picturesd5.blob.core.windows.net/deezblobs/FeedBackPage2.PNG]
+![alt text](https://picturesd5.blob.core.windows.net/deezblobs/FeedBackPage2.PNG)
 
 ## Overall Goal of Application
 Web Application where users eager to learn about shoes, future release dates can talk about shoes and all come together. They can have access to several shoes I’m following on a weekly basis as well as links to these shoes with descriptions.
