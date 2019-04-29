@@ -47,6 +47,11 @@ Web Application where users eager to learn about shoes, future release dates can
 |       2.6             | Users can submit feedback             |   Yes         |       No              |
 |       ---             |     ---                               |     ---       |        ---            |
 
+
+
+## Requirments tests and log details 
+[https://github.com/DarwinRivera1/Just4KickzBLOG-App/blob/master/TestPlan.xlsx]
+
 ## Prioritized backlog items
 
   Priority | -
