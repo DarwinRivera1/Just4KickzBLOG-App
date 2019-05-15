@@ -60,9 +60,9 @@ Web Application where users eager to learn about shoes, future release dates can
 
   Priority | -
 --- | --- 
-1 | Add an admin post option
-2 | Add links to purchase/create shopping cart
-3 | Update homepage to be more interactive
-4 | Edit current style sheets
+
+1 | Add links to purchase/create shopping cart
+2 | Update background 
+3 | Edit current style sheets
 
 
