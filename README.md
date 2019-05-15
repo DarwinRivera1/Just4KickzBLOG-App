@@ -2,7 +2,7 @@
 I often found myself looking to learn more about shoes when they were released, and always wanting new updates and possibly purchase shoes if they peaked my interest. After learning about my love for shoes I decided for my project I would take what I learned and make a shoe blog where I would open the floor up to feedback and share what shoes I was following for the week.
 
 ## Link to Application Pending
-[https://azurewebsites.net]
+[https://just4kickz20190514055736.azurewebsites.net/]
 
 ## Current Progress 
 
