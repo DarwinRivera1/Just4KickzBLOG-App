@@ -56,13 +56,12 @@ Web Application where users eager to learn about shoes, future release dates can
 ## Requirments tests and log details 
 [https://github.com/DarwinRivera1/Just4KickzBLOG-App/blob/master/TestPlan.xlsx]
 
-## Prioritized backlog items
+### Prioritized backlog items
 
-  Priority | -
---- | --- 
+  Priority 
 
-1 | Add links to purchase/create shopping cart
-2 | Update background 
-3 | Edit current style sheets
+- Add links to purchase/create shopping cart
+- Update background 
+- Edit current style sheets
 
 
