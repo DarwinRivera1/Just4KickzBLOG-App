@@ -48,8 +48,8 @@ Web Application where users eager to learn about shoes, future release dates can
 |       2.7             | Users information cam be accessed     |   Yes         |       No              |
 |       ---             |     ---                               |     ---       |        ---            |
 |       3.0             | About Us Page displays                |   Yes         |        ---            |
-|       3.2             | Provide users access to about us page |   Yes         |       No              |
-|       3.3             | Users can access about us page        |   Yes         |       No              |
+|       3.1             | Provide users access to about us page |   Yes         |       No              |
+|       3.2             | Users can access about us page        |   Yes         |       No              |
 |       ---             |     ---                               |     ---       |        ---            |
 
 
