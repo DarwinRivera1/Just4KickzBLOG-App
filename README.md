@@ -45,8 +45,12 @@ Web Application where users eager to learn about shoes, future release dates can
 |       2.4             | Users can input email information     |   Yes         |       No              |
 |       2.5             | Users can request to be contacted     |   Yes         |       No              |
 |       2.6             | Users can submit feedback             |   Yes         |       No              |
+|       2.7             | Users information cam be accessed     |   Yes         |       No              |
 |       ---             |     ---                               |     ---       |        ---            |
-
+|       3.0             | About Us Page displays                |   Yes         |        ---            |
+|       3.2             | Provide users access to about us page |   Yes         |       No              |
+|       3.3             | Users can access about us page        |   Yes         |       No              |
+|       ---             |     ---                               |     ---       |        ---            |
 
 
 ## Requirments tests and log details 
